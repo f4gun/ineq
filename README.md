@@ -6,12 +6,12 @@ The project uses R and a few additional packages that you may need to install:
 2. ineq (for calculating Gini coefficient and graphing Lorenz curve) 
 3. ggplot2 (for plotting)
 
-Data source:  https://jackblun.github.io/Globalinc/ 
+**Data source:**  https://jackblun.github.io/Globalinc/ 
 It provides PPP-adjusted income distribution data for many countries from 1980 until 2014. I’ve also attached the CSV file within the repository. 
 
-Countries selected: Germany, India, the UK, and the US 
+**Countries selected:** Germany, India, the UK, and the US 
 
-Time period: From 1980 to 2014
+**Time period:** From 1980 to 2014
 
 **Methods:** Lorenz Curve, Gini coefficient. 
 
